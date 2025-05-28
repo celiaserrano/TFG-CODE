@@ -1,4 +1,4 @@
-# TFG-CODE
+# THESIS-CODE
 # Non-linear Dynamics in Brain Activity during Mental Arithmetic Tasks
 
 This repository contains the code developed for my Bachelor Thesis, focused on the analysis of brain dynamics before and during mental arithmetic tasks using linear and non-linear techniques applied to EEG signals.
