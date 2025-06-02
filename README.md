@@ -6,7 +6,7 @@ This repository contains the code developed for my Bachelor Thesis, focused on t
 ## Notebook Contents
 
 - **signals.ipynb**  
-  Preprocessing of EEG signals, including data loading, filtering, and initial visualization.
+  Preprocessing of EEG signals, including data loading and initial visualization.
 
 - **power_band_analysis.ipynb**  
   Spectral analysis across frequency bands using Welch’s method.
